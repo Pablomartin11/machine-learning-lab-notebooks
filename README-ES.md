@@ -9,4 +9,5 @@ Este repositorio contiene todos los experimentos realizados en la asignatura de 
 - KMedias con cálculo de centro de iniciales con el Algoritmo de Ward.
 - Mapa Autorganizado ajustado a un conjunto de datos.
 - Aplicación de una Red Recurrente de Elman, LSTM y GRU.
+- Redes Convolucionales - Arquitectura VGG.
 - Método de Atención de Transformers.
