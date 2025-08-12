@@ -8,4 +8,5 @@ This repository contains all the experiments carried out in the _Data Mining_ co
 - KMeans with initial center calculation using the Ward Algorithm
 - Self Organizing Map adjusted to a dataset.
 - Application of a RNN Elman, LSTM, and GRU.
+- Convolutional Networks - VGG Architecture
 - Scaled dot product Attention - Transformers
